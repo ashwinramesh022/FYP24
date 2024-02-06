@@ -1,0 +1,14 @@
+Pillow==6.0.0
+matplotlib==3.1.0
+libtiff
+numpy==1.22.0
+scipy==1.2.0
+pandas==0.24.2
+sympy==1.4
+glob2
+glob3
+opencv-python==4.1.0.25
+scikit-learn
+scikit-image==0.15.0
+tensorflow-gpu==1.4.0
+Keras==2.1.3
